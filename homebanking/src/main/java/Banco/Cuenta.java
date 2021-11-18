@@ -13,11 +13,7 @@ public class Cuenta {
         this.password=password;
         this.nombre=nombre;
         this.apellido=apellido;
-<<<<<<< HEAD
-        this.saldo=5000;
-=======
         this.saldo=0;
->>>>>>> d4e9c4f654e6854da62c34d3fec29159ee0920ce
         this.CVU=1;
     }
 
@@ -44,7 +40,6 @@ public class Cuenta {
     public int getCVU() {
         return CVU;
     }
-<<<<<<< HEAD
 
     public String ingresarSaldo(int saldo) {
         this.saldo = this.saldo+saldo;
@@ -62,7 +57,5 @@ public class Cuenta {
 
 
 
-=======
->>>>>>> d4e9c4f654e6854da62c34d3fec29159ee0920ce
 }
 
