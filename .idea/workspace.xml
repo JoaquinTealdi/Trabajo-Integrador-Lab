@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="9af66be1-0eb3-43db-b803-2c505d1f961d" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/homebanking/src/main/java/Banco/Cuenta.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/homebanking/src/main/java/Banco/Inicio.java" afterDir="false" />
@@ -17,6 +18,11 @@
       <change beforePath="$PROJECT_DIR$/homebanking/target/classes/com/example/homebanking/Banco/ListaEnlazada.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/homebanking/target/classes/com/example/homebanking/Banco/Nodo.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/homebanking/target/classes/com/example/homebanking/homebanking.class" beforeDir="false" />
+=======
+    <list default="true" id="9af66be1-0eb3-43db-b803-2c505d1f961d" name="Changes" comment="Changes">
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> d4e9c4f654e6854da62c34d3fec29159ee0920ce
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
