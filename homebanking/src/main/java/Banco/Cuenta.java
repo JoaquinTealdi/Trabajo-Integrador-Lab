@@ -14,7 +14,7 @@ public class Cuenta {
         this.nombre=nombre;
         this.apellido=apellido;
         this.saldo=0;
-        this.CVU=1;
+        this.CVU=(int)(Math.random()*1000000000+1);
     }
 
     public String getUsername() {
